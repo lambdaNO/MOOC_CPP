@@ -1,2 +1,3 @@
-# MOOC_CPP
-MOOC Coursera - C++ : Révision emploi Centrale Nantes
+# MOOC Coursera - C++
+## Préparation/Rappels programmation c++
+ 
