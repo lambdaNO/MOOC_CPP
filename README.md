@@ -28,4 +28,16 @@
       - S1_EX_3.cpp : Exercice 1.2 : Fondue
       - S1_EX_4.cpp : Exercice 1.3 : Variables
       - S1_EX_5.cpp : Exercice soumission
-:
+  - **S_2 :**
+    - S2_X1.cpp : branchements conditionnels
+    - S2_X2.cpp : conditions
+    - S2_X3.cpp : le type bool
+    - S1_X4.cpp - Code de test
+    - DOC_1 : Evaluation paresseuse
+    - DOC_2 : Switch case
+    - **EXO :**
+      - S1_EX_1.cpp : Tutoriel -  Polynôme
+      - S1_EX_2.cpp : Exercice 2.1 : Intervalle
+      - S1_EX_3.cpp : Exercice 2.2 : Intervalle avec expression logique
+      - S1_EX_4.cpp : Exercice 2.3 : Expression mathématique (valides)
+      - S1_EX_5.cpp : Exercice 2.4 : Polynome de degré 3
