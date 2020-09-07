@@ -36,8 +36,56 @@
     - DOC_1 : Evaluation paresseuse
     - DOC_2 : Switch case
     - **EXO :**
-      - S1_EX_1.cpp : Tutoriel -  Polynôme
-      - S1_EX_2.cpp : Exercice 2.1 : Intervalle
-      - S1_EX_3.cpp : Exercice 2.2 : Intervalle avec expression logique
-      - S1_EX_4.cpp : Exercice 2.3 : Expression mathématique (valides)
-      - S1_EX_5.cpp : Exercice 2.4 : Polynome de degré 3
+      - S2_EX_1.cpp : Tutoriel -  Polynôme
+      - S2_EX_2.cpp : Exercice 2.1 : Intervalle
+      - S2_EX_3.cpp : Exercice 2.2 : Intervalle avec expression logique
+      - S2_EX_4.cpp : Exercice 2.3 : Expression mathématique (valides)
+      - S2_EX_5.cpp : Exercice 2.4 : Polynome de degré 3
+  - **S_3 :**
+    - S3_X1.cpp : Boucle For
+    - S3_X2.cpp : Boucle For (Bis)
+    - S3_X3.cpp : Quiz For
+    - S3_X4.cpp : Boucle While
+    - S3_X5.cpp : Structure de contrôle
+    - S3_X6 : Exercice soumission
+    - **EXO :**
+      - S3_EX_1.cpp : Exercice 3.1 : Table de multiplication
+      - S3_EX_2.cpp : Exercice 3.2 : Physique du rebond   
+      - S3_EX_3.cpp : Exercice 3.3 : Physique du rebond 2
+      - S3_EX_4.cpp : Exercice 3.4 : Nombre premiers
+      - S3_EX_5.cpp : Exercice 3.5 : Suite en banque
+      - S3_EX_6.cpp : Exercice 3.6 : Suite et exponentielle
+      - S3_EX_7.cpp : Exercice 3.7 : Jolis textes
+      - S3_EX_8.cpp : Exercice 3.8 : Algorithme d'Euclide
+  - **S_4 :**
+    - S4_X1.cpp : Introduction aux fonctions
+    - S4_X2.cpp : Méthodologie de définition de fonction
+    - S4_X3.cpp : arguments par défauts et surcharge;
+    - **EXO :**
+      - S4_EX_1.cpp : Exercice 4.1 : Fonction moyenne
+      - S4_EX_2.cpp : Exercice 4.2 : Somme récursive
+      - S4_EX_3.cpp : Exercice 4.3 : Fonction min
+      - S4_EX_4.cpp : Exercice 4.4 : Jolis textes bis
+      - S4_EX_5.cpp : Exercice 4.5 : Calcule intégral
+      - S4_EX_6.cpp : Exercice 4.6 : Expression logique
+      - S4_EX_7.cpp : Exercice 4.7 : Recherche dichotomique
+      - S4_EX_8.cpp : Exercice 4.8 : Racine d'une équation
+  - **S_5 :**
+    - S5_X1.cpp : Introduction aux tableaux : concept et déclarations
+    - S5_X2.cpp : Manipulation des tableaux
+    - S5_X3.cpp : Exemples
+    - S5_X4.cpp : Fonctions spécifiques aux tableaux dynamiques
+    - S5_X5.cpp : Tableaux dynamiques multidimensionnels
+    - S5_X6.cpp : Tableaux statiques Array
+    - S5_X7.cpp : Exercice soumission
+    - DOC_1 : Analyse des tableaux en C
+    - **EXO :**
+      - S5_EX_1.cpp : Exercice 5.1 : Moyenne de classe
+      - S5_EX_2.cpp : Exercice 5.2 : Produit scalaire
+      - S5_EX_3.cpp : Exercice 5.3 : Multiplication matricielle
+      - S5_EX_4.cpp : Exercice 5.4 : Addition matricielle (move semantics, r-value reference,l-value)
+      - S5_EX_5.cpp : Exercice 5.5 : Crible d'Ératosthène
+      - S5_EX_6.cpp : Exercice 5.6 : Elements en indices
+      - S5_EX_7.cpp : Exercice 5.7 : Placement sans recouvrement
+  - **S_6 :**
+    - S6_X1
