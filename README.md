@@ -1,8 +1,6 @@
 # MOOC Coursera - C++
 ## Préparation/Rappels programmation c++
 
-
-
 - **MOOC 1 :** Initiation à la programmation (en C++)
   - **S_0 :**
     - test.cpp - Test compilation sur machine local
@@ -88,4 +86,33 @@
       - S5_EX_6.cpp : Exercice 5.6 : Elements en indices
       - S5_EX_7.cpp : Exercice 5.7 : Placement sans recouvrement
   - **S_6 :**
-    - S6_X1
+    - S6_X1.cpp : Introduction aux chaines de caractères : string
+    - S6_X2.cpp : Manipulation de chaines
+    - S6_X3.cpp : Typedef : Alias de type
+    - S6_X4.cpp, S6_X5.cpp  : Structure
+    - S5_X6.cpp : Exercice soumission
+    - **EXO :**
+      - S6_EX_1.cpp : Exercice 6.1 : Belle lettre
+      - S6_EX_2.cpp : Exercice 6.2 : Complexes
+      - S6_EX_3.cpp : Exercice 6.3 : QCM
+  - **S_7 :**
+    - S7_X_1.cpp : Introduction aux pointeurs et références (Généralités)
+    - S7_X_2.cpp : Pointeurs
+    - S7_X_3.cpp : Allocation dynamique de de mémoire,
+    - S7_X_4.cpp : Pointeurs intelligents
+    - S7_X_5.cpp : Exercice soumission
+    - **EXO :**
+      - S7_EX_1.cpp : Exercice 7.1 : Référence
+      - S7_EX_2.cpp : Exercice 7.2 : Adresse de référence
+      - S7_EX_2.cpp : Exercice 7.2 : Adresse de mémoire
+  - **S_8 :**
+    - S8_X_0.cpp : Puissance 4
+    - S8_X_1.cpp : Exercice soumission
+    - **EXO :**
+      - S8_EX_1.cpp : recherche de sous séquences;
+      - S8_EX_2.cpp : shell sort;
+      - S8_EX_3.cpp : Match de foot
+      - S8_EX_4.cpp : Le pendu
+--------
+
+  - **MOOC 2 :** Programmation orientée objet (en C++)
