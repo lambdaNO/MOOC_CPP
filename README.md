@@ -115,4 +115,26 @@
       - S8_EX_4.cpp : Le pendu
 --------
 
-  - **MOOC 2 :** Programmation orientée objet (en C++)
+- **MOOC 2 :** Programmation orientée objet (en C++)
+  - **S_1 :**
+    - S1_X1.cpp : Classes, Objets, Attributs, Méthodes, Privée, Publique
+    - S1_X2.cpp : Classe rectangle avec implémentation externe (propre + convention)
+    - S1_X3.cpp : Etude de cas : Morpion
+    - **EXO :**
+      - S1_EX_1.cpp : Exercice soumission
+      - S1_EX_2.cpp : Cercle
+      - S1_EX_3.cpp : Tour
+      - S1_EX_4.cpp : Point 3D
+      - S1_EX_5.cpp : Triangle
+  - **S_2 :**
+    - S2_X1.cpp : Constructeurs de classe
+    - S2_X2.cpp : Constructeurs par défaut;
+    - S2_X3.cpp : Constructeur de copie
+    - S2_X4.cpp : Destructeur
+    - S2_X5.cpp : Exercice soumission
+    - **EXO :**
+      - S2_EX_1.cpp : Peluches
+      - S2_EX_2.cpp : Apéro
+      - S2_EX_3.cpp : Fleur
+      - S2_EX_4.cpp : Banque
+      - S2_EX_4.cpp : Supermarché
