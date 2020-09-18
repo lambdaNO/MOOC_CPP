@@ -138,3 +138,22 @@
       - S2_EX_3.cpp : Fleur
       - S2_EX_4.cpp : Banque
       - S2_EX_4.cpp : Supermarché
+  - **S_3 :**
+    - S3_X1.cpp : Variables et méthodes de classes  -> Cool pour les variables, mauvais pour les méthodes
+    - S3_X2.cpp : Surcharge d'opérateur
+    - S3_X3.cpp : Exercice soumission
+    - **EXO :**
+      - S3_EX_1.cpp / S2_EX_1_2.cpp / S3_EX_3.cpp : Polynome
+      - S3_EX_2.cpp : Surcharge opérateur affichage externe/interne
+      - S3_EX_3.cpp : Complexes
+      *Mantra sur les += et +* toujours définir les opérateurs += avant
+  - **S_4 :**
+    - S4_X1.cpp : Héritage simple.
+    - S4_X2.cpp : Copie profonde.
+    - S4_X3.cpp : Exercice soumission
+    - **EXO :**
+      - S3_EX_1.cpp : Héritages géométriques
+      - S3_EX_2.cpp : Voitures et avions
+      - S3_EX_3.cpp : Opérations vectorielles
+      - S3_EX_4.cpp : Corps
+      
